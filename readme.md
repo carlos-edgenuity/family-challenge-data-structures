@@ -47,4 +47,4 @@ and make queries about such an interesting family. The schema should abstract an
 1. Was Julia born out of wedlock? Yes
 1. Are Quentin and Julia blood relatives? Yes
 1. Are Clara and Quentin blood relatives? No
-1. What should Alice do after she finds out that Quentin allegedly molested Julia? Out of scope
+1. Quentin and Julia claim to be in love, what should Alice do? Out of scope
